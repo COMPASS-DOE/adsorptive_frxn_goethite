@@ -1,0 +1,140 @@
+##TITLE= Audit trail, TopSpin 3.6.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ C:/Bruker/TopSpin3.6.0/data/kpatel/nmr/upland_A_spe/4/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-08-26 16:51:07.052 -0700>,<nmr>,<bsf2231>,<go4>,<TopSpin 3.6.0>,
+      <created by zg
+	started at 2023-08-26 15:32:19.349 -0700,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       15 7C 2A E7 DC 27 C4 1E E7 AA E0 86 D8 47 CE 53
+       data hash MD5: 32K
+       FC 7B B6 9A A6 34 DD 4C FC 70 34 FC 3C 47 E1 ED>)
+(   2,<2023-08-26 16:51:08.505 -0700>,<nmr>,<bsf2231>,<audit>,<TopSpin 3.6.0>,
+      <user comment:
+       ICON-NMR User ID: kpatel
+       data hash MD5: 32K
+       FC 7B B6 9A A6 34 DD 4C FC 70 34 FC 3C 47 E1 ED>)
+(   3,<2023-08-26 16:51:10.130 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <Start of raw data processing
+       ef ME_mod = 2 NCOEF = 512 LB = 1 FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       21 50 CF 28 A5 93 3A EB CE 0B 85 57 40 74 58 4A>)
+(   4,<2023-08-26 16:51:10.661 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <apk0 
+       data hash MD5: 32K
+       FD FB 7B D3 1C C8 26 C0 3E 53 6E DD 09 3E 8F 95>)
+(   5,<2023-08-26 16:51:10.693 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <mulc DC = 0.9205984 
+       data hash MD5: 32K
+       A9 A7 AF 54 C6 44 19 27 96 BD 97 47 7A 71 58 49>)
+(   6,<2023-08-26 16:51:10.724 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       57 8C F2 5A 3C 9D D8 17 D9 96 7E B7 3C 2C B9 50>)
+(   7,<2023-08-26 16:51:10.771 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 4.851803 ABSF1 = 13.31309 
+       data hash MD5: 32K
+       17 78 AD 6B FC 12 82 85 9D 30 73 06 1F 8E DC 89>)
+(   8,<2023-08-26 16:51:10.802 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 9.082447 ABSF1 = 13.31309 
+       data hash MD5: 32K
+       6A 9D 14 08 8F 2A 2B A2 74 FE 55 A1 A5 80 28 BB>)
+(   9,<2023-08-26 16:51:10.818 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 11.31309 ABSF1 = 13.31309 
+       data hash MD5: 32K
+       61 0C 1B CD C4 EA 29 49 29 6D D9 A4 E2 C5 B3 D7>)
+(  10,<2023-08-26 16:51:10.849 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 12.31309 ABSF1 = 13.31309 
+       data hash MD5: 32K
+       66 DA 61 11 74 77 51 45 A0 F3 3C 83 67 C6 D5 F5>)
+(  11,<2023-08-26 16:51:10.880 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 12.81309 ABSF1 = 13.31309 
+       data hash MD5: 32K
+       33 7B F5 F0 7C 90 06 C6 E6 F8 05 68 34 D7 FA D4>)
+(  12,<2023-08-26 16:51:10.911 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 4.851803 ABSF1 = 9.082447 
+       data hash MD5: 32K
+       5B 5E 8A B5 03 D0 75 B3 09 C6 E8 2A 9D 73 1E 0E>)
+(  13,<2023-08-26 16:51:10.943 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 4.851803 ABSF1 = 6.851803 
+       data hash MD5: 32K
+       FA CA CC 06 DD 79 E5 95 2F D3 44 69 98 D4 67 DE>)
+(  14,<2023-08-26 16:51:10.974 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 4.851803 ABSF1 = 5.851803 
+       data hash MD5: 32K
+       F0 D5 3F 4A 55 F4 5D E3 C3 B2 00 1C 41 56 67 8C>)
+(  15,<2023-08-26 16:51:11.005 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 4.851803 ABSF1 = 5.351803 
+       data hash MD5: 32K
+       0C AE 1F CC 03 FE 64 1B C7 AF D2 75 55 D7 BE 98>)
+(  16,<2023-08-26 16:51:11.036 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 3.300315 ABSF1 = 4.851803 
+       data hash MD5: 32K
+       6A C4 A6 68 2D F8 17 46 BC 78 6F D4 99 CB A3 10>)
+(  17,<2023-08-26 16:51:11.068 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 4.076059 ABSF1 = 4.851803 
+       data hash MD5: 32K
+       6B F8 93 4E 62 B0 41 A7 7D 57 D3 9E 2B 79 F9 69>)
+(  18,<2023-08-26 16:51:11.099 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 4.463931 ABSF1 = 4.851803 
+       data hash MD5: 32K
+       94 AA DC 24 CB BF BA 67 61 E2 EF 2F 1D 70 67 20>)
+(  19,<2023-08-26 16:51:11.130 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 3.300315 ABSF1 = 4.076059 
+       data hash MD5: 32K
+       6B 21 21 EE 68 EE E7 D8 B5 2D 3E 38 72 E8 80 CF>)
+(  20,<2023-08-26 16:51:11.161 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 3.300315 ABSF1 = 3.688187 
+       data hash MD5: 32K
+       29 AD 4E C6 52 71 4F 28 18 97 10 94 10 FF 49 5B>)
+(  21,<2023-08-26 16:51:11.193 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = -6.712453 ABSF1 = 3.300315 
+       data hash MD5: 32K
+       BF 3C 42 9F 60 A2 8C 29 69 E1 26 B5 C1 DA D6 32>)
+(  22,<2023-08-26 16:51:11.224 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = -1.706069 ABSF1 = 3.300315 
+       data hash MD5: 32K
+       76 09 06 2C A1 CE 49 57 20 09 1E 86 6E 3B 16 3B>)
+(  23,<2023-08-26 16:51:11.255 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 1.300315 ABSF1 = 3.300315 
+       data hash MD5: 32K
+       A4 3A 5C CC E4 F1 8C 2A 80 51 06 88 ED D6 E8 F7>)
+(  24,<2023-08-26 16:51:11.286 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 2.300315 ABSF1 = 3.300315 
+       data hash MD5: 32K
+       B2 DE 67 3F 21 C8 46 A7 F5 17 E0 97 D0 50 B0 2A>)
+(  25,<2023-08-26 16:51:11.318 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 2.800315 ABSF1 = 3.300315 
+       data hash MD5: 32K
+       D4 D1 4F D8 7D 75 BB A1 8C B1 61 79 A5 18 95 95>)
+(  26,<2023-08-26 16:51:11.349 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = -6.712453 ABSF1 = -1.706069 
+       data hash MD5: 32K
+       F0 50 74 F7 A8 61 33 3E 2D B1 83 63 14 1D 4A E3>)
+(  27,<2023-08-26 16:51:11.380 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = -6.712453 ABSF1 = -4.712453 
+       data hash MD5: 32K
+       2B 71 73 10 76 BF F4 B3 EB F7 FC 94 F4 66 7C 98>)
+(  28,<2023-08-26 16:51:11.411 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = -6.712453 ABSF1 = -5.712453 
+       data hash MD5: 32K
+       8F B9 26 5F 74 5D C4 C6 AD 8C 0A 4A 9E 94 4B D6>)
+(  29,<2023-08-26 16:51:11.443 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = -6.712453 ABSF1 = -6.212453 
+       data hash MD5: 32K
+       E9 18 47 30 49 AF 84 9B 2E E6 3C 31 47 42 16 A1>)
+(  30,<2023-08-26 16:51:11.568 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <nm 
+       data hash MD5: 32K
+       5E 68 CA BC 3C C3 C2 C8 CA B1 C5 24 5F 0B 38 55>)
+(  31,<2023-08-26 16:51:11.630 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <nm 
+       data hash MD5: 32K
+       E9 18 47 30 49 AF 84 9B 2E E6 3C 31 47 42 16 A1>)
+##END=
+
+$$ hash MD5
+$$ 2A D2 8C 0B A5 81 60 6C 9B EB 98 83 87 69 CF 3C

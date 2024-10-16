@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2023-08-26T03:26:08.747-07:00" expNo="1" name="upland_B_meoh" owner="" procNo="1" source="C:/Bruker/TopSpin3.6.0/data/kpatel/nmr">
+      <PeakPickDetails>F1=16.162180ppm, F2=-3.863363ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="5.109440" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="4.847838" intensity="3.644749e+003" type="0"/>
+    <Peak1D F1="3.804742" intensity="5.320463e+000" type="0"/>
+    <Peak1D F1="3.780014" intensity="5.939628e+000" type="0"/>
+    <Peak1D F1="3.659431" intensity="4.489978e+000" type="0"/>
+    <Peak1D F1="3.478237" intensity="1.358649e+001" type="0"/>
+    <Peak1D F1="3.305727" intensity="1.381616e+003" type="0"/>
+    <Peak1D F1="3.130615" intensity="8.304685e+000" type="0"/>
+    <Peak1D F1="2.386496" intensity="9.276294e-001" type="0"/>
+    <Peak1D F1="2.017487" intensity="1.891612e+000" type="0"/>
+    <Peak1D F1="1.286457" intensity="1.377606e+001" type="0"/>
+    <Peak1D F1="1.208683" intensity="2.997439e+000" type="0"/>
+    <Peak1D F1="0.871303" intensity="3.082108e+000" type="0"/>
+    <Peak1D F1="0.095333" intensity="2.498582e+001" type="0"/>
+    <Peak1D F1="-0.000154" intensity="1.703323e+002" type="0"/>
+    <Peak1D F1="-0.149034" intensity="1.906047e+000" type="0"/>
+  </PeakList1D>
+</PeakList>

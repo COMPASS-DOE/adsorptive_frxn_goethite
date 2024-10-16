@@ -1,0 +1,5 @@
+P    #regions in PPM
+# low field   high field
+  13.31902980804443  5.03409675017781  # for region 1
+  4.66796574250645  3.48931880301064  # for region 2
+  3.12318779533928  -6.70651317253820  # for region 3

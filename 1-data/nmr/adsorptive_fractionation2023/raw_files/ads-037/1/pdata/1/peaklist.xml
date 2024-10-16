@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2023-07-15T18:31:32.942-07:00" expNo="1" name="ads-037" owner="" procNo="1" source="C:/Bruker/TopSpin3.6.0/data/kpatel/nmr">
+      <PeakPickDetails>F1=16.187771ppm, F2=-3.837772ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="3.328931" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="3.305030" intensity="8.360254e+000" type="0"/>
+    <Peak1D F1="2.679577" intensity="1.546327e-001" type="0"/>
+    <Peak1D F1="2.548365" intensity="2.941695e-001" type="0"/>
+    <Peak1D F1="2.510639" intensity="1.516065e+001" type="0"/>
+    <Peak1D F1="2.337602" intensity="1.588833e-001" type="0"/>
+  </PeakList1D>
+</PeakList>

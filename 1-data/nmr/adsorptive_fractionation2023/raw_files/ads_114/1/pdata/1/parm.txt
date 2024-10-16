@@ -1,0 +1,46 @@
+
+Current Data Parameters
+NAME            ads_114              
+EXPNO                 1              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20231020              
+Time               5.03 h            
+INSTRUM           spect              
+PROBHD   Z116098_0806 (              
+PULPROG         lc1pnf2              
+TD                32768              
+SOLVENT            MeOD              
+NS                 2560              
+DS                    8              
+SWH            8012.820 Hz           
+FIDRES         0.489064 Hz           
+AQ            2.0447233 sec          
+RG               135.18              
+DW               62.400 usec         
+DE                13.11 usec         
+TE                298.2 K            
+D1           2.40000010 sec          
+D8           0.10000000 sec          
+D12          0.00002000 sec          
+D13          0.00000400 sec          
+TD0                   5              
+SFO1        400.1319502 MHz          
+NUC1                 1H              
+P1                10.00 usec         
+PLW1        14.57900047 W            
+PLW9         0.00005831 W            
+SFO2        400.1313322 MHz          
+NUC2                 1H              
+PLW2        14.57900047 W            
+PLW21        0.00005831 W            
+
+F2 - Processing parameters
+SI                32768              
+SF          400.1300095 MHz          
+WDW                  EM              
+SSB      0              
+LB                 1.00 Hz           
+GB       0              
+PC                 1.00              

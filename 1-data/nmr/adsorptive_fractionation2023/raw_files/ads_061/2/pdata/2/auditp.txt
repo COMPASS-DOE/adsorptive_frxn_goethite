@@ -1,0 +1,51 @@
+##TITLE= Audit trail, TopSpin 3.6.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ C:/Bruker/TopSpin3.6.0/data/kpatel/nmr/ads_061/2/pdata/2/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-10-12 19:06:11.212 -0700>,<nmr>,<bsf2231>,<go4>,<TopSpin 3.6.0>,
+      <created by zg
+	started at 2023-10-12 19:05:11.961 -0700,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       15 7C 2A E7 DC 27 C4 1E E7 AA E0 86 D8 47 CE 53
+       data hash MD5: 64K
+       1F 59 96 35 04 55 2F 78 39 3A A9 7D 9B B3 CE 79>)
+(   2,<2023-10-12 19:06:11.837 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <Start of raw data processing
+       em LB = 8 SI = 32K 
+       data hash MD5: 32K
+       ED 46 DF A1 8A 96 CB 0C EB C8 8F 74 70 38 47 EF>)
+(   3,<2023-10-12 19:06:11.868 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       E3 BE E3 E1 05 E4 A3 40 AC 94 B7 08 D1 18 72 55>)
+(   4,<2023-10-12 19:06:11.962 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <apkf ABSF2 = 0 ABSF1 = 11 
+       data hash MD5: 32K
+       FD CB 79 A4 B1 73 9E 37 3F 45 43 3A E9 E3 89 6A>)
+(   5,<2023-10-12 19:06:12.024 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       04 CD A4 E8 F6 B9 90 6E 75 01 35 CB C3 9D 96 CA>)
+(   6,<2023-10-12 19:06:12.149 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       3D 8E 70 22 92 60 24 20 9B B5 59 07 EF 27 13 09>)
+(   7,<2023-10-12 19:06:12.180 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <absf ABSG = 5 ABSF2 = 0 ABSF1 = 11 
+       data hash MD5: 32K
+       6E CE 59 19 E3 8D F1 DA B9 6E 2B 6A 52 57 CA 00>)
+(   8,<2023-10-12 19:06:12.493 -0700>,<nmr>,<bsf2231>,<proc1d>,<TopSpin 3.6.0>,
+      <mulc DC = 95.23367 
+       data hash MD5: 32K
+       71 CB 51 B2 87 71 A8 6C 58 B5 86 0F 88 B2 A9 96>)
+(   9,<2023-10-12 19:06:12.540 -0700>,<nmr>,<bsf2231>,<dirdata>,<TopSpin 3.6.0>,
+      <wrp from 1 2 "ads_061" "C:/Bruker/TopSpin3.6.0/data/kpatel/nmr"
+       data hash MD5: 32K
+       71 CB 51 B2 87 71 A8 6C 58 B5 86 0F 88 B2 A9 96>)
+##END=
+
+$$ hash MD5
+$$ 47 67 0E 2B FC 1D 02 0A 08 1B 97 BF 64 AE B8 9C

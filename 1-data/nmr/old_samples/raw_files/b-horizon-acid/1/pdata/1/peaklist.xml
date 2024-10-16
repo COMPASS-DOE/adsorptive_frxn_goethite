@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2023-07-20T06:49:07.402-07:00" expNo="1" name="b-horizon-acid" owner="" procNo="1" source="C:/Bruker/TopSpin3.6.0/data/kpatel/nmr">
+      <PeakPickDetails>F1=16.187771ppm, F2=-3.837772ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="3.331901" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="2.681094" intensity="1.450496e-001" type="0"/>
+    <Peak1D F1="2.512269" intensity="1.284105e+001" type="0"/>
+    <Peak1D F1="2.339623" intensity="1.297718e-001" type="0"/>
+  </PeakList1D>
+</PeakList>

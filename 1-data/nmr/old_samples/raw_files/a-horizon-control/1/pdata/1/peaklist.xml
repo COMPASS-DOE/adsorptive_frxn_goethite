@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2023-07-19T22:58:22.904-07:00" expNo="1" name="a-horizon-control" owner="" procNo="1" source="C:/Bruker/TopSpin3.6.0/data/kpatel/nmr">
+      <PeakPickDetails>F1=16.187771ppm, F2=-3.837772ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="3.336056" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="2.989933" intensity="2.710064e-001" type="0"/>
+    <Peak1D F1="2.853405" intensity="2.379845e-001" type="0"/>
+    <Peak1D F1="2.521312" intensity="1.776364e+001" type="0"/>
+    <Peak1D F1="2.165913" intensity="2.429145e-001" type="0"/>
+    <Peak1D F1="1.952473" intensity="1.573992e-001" type="0"/>
+    <Peak1D F1="1.837925" intensity="1.399164e-001" type="0"/>
+    <Peak1D F1="1.798177" intensity="1.339724e-001" type="0"/>
+    <Peak1D F1="1.776313" intensity="1.316728e-001" type="0"/>
+    <Peak1D F1="1.747336" intensity="1.264857e-001" type="0"/>
+    <Peak1D F1="1.682236" intensity="1.208191e-001" type="0"/>
+    <Peak1D F1="1.633841" intensity="1.172820e-001" type="0"/>
+    <Peak1D F1="1.561905" intensity="1.155927e-001" type="0"/>
+    <Peak1D F1="1.540585" intensity="1.149100e-001" type="0"/>
+    <Peak1D F1="1.503416" intensity="1.160199e-001" type="0"/>
+    <Peak1D F1="1.487545" intensity="1.160550e-001" type="0"/>
+    <Peak1D F1="1.445368" intensity="1.114978e-001" type="0"/>
+    <Peak1D F1="1.434370" intensity="1.112858e-001" type="0"/>
+    <Peak1D F1="1.371585" intensity="1.143539e-001" type="0"/>
+    <Peak1D F1="1.258179" intensity="1.954353e-001" type="0"/>
+  </PeakList1D>
+</PeakList>
