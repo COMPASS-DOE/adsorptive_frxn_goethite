@@ -1,0 +1,42 @@
+[Header]												
+System	salt-9mL											
+S/W Version	1											
+User												
+Date/Time	10/16/24 14:09											
+												
+[System]												
+Instrument Options	TOC/ASI/IC Unit/TN/Sparge Kit/											
+												
+[Data]												
+Type	Anal.	Sample Name	Sample ID	Result(TOC)	Result(TC)	Result(IC)	Result(POC)	Result(NPOC)	Result(TN)	Unit	Vial	Date / Time
+Standard	NPOC	cc-2	Untitled					100		mg/L	"80, 81, 82, 83, 84, 85"	9/7/23 13:10
+Unknown	NPOC	DIW	Untitled					0.7042		mg/L	86	9/7/23 13:30
+Unknown	NPOC	chkstd_10ppm	Untitled					9.913		mg/L	87	9/7/23 13:41
+Unknown	NPOC	ads_061	Untitled					20.64		mg/L	1	9/7/23 13:57
+Unknown	NPOC	ads_062	Untitled					24.15		mg/L	2	9/7/23 14:09
+Unknown	NPOC	ads_063	Untitled					25.01		mg/L	3	9/7/23 14:22
+Unknown	NPOC	ads_064	Untitled					24.22		mg/L	4	9/7/23 14:34
+Unknown	NPOC	ads_065	Untitled					22.9		mg/L	5	9/7/23 14:47
+Unknown	NPOC	ads_066	Untitled					29.91		mg/L	6	9/7/23 14:59
+Unknown	NPOC	ads_067	Untitled					30.56		mg/L	7	9/7/23 15:12
+Unknown	NPOC	ads_068	Untitled					30.14		mg/L	8	9/7/23 15:24
+Unknown	NPOC	ads_069	Untitled					29.88		mg/L	9	9/7/23 15:37
+Unknown	NPOC	ads_070	Untitled					29.63		mg/L	10	9/7/23 15:49
+Unknown	NPOC	DIW	Untitled					0.4086		mg/L	88	9/7/23 16:07
+Unknown	NPOC	chkstd_10ppm	Untitled					9.906		mg/L	89	9/7/23 16:19
+Unknown	NPOC	ads_071	Untitled					64.09		mg/L	11	9/7/23 16:35
+Unknown	NPOC	ads_072	Untitled					60.85		mg/L	12	9/7/23 16:47
+Unknown	NPOC	ads_073	Untitled					62.49		mg/L	13	9/7/23 16:59
+Unknown	NPOC	ads_074	Untitled					62.21		mg/L	14	9/7/23 17:11
+Unknown	NPOC	ads_075	Untitled					59.41		mg/L	15	9/7/23 17:24
+Unknown	NPOC	ads_076	Untitled					25.92		mg/L	16	9/7/23 17:36
+Unknown	NPOC	ads_077	Untitled					25.16		mg/L	17	9/7/23 17:49
+Unknown	NPOC	ads_078	Untitled					24.88		mg/L	18	9/7/23 18:02
+Unknown	NPOC	ads_079	Untitled					24.58		mg/L	19	9/7/23 18:15
+Unknown	NPOC	ads_080	Untitled					24.31		mg/L	20	9/7/23 18:27
+Unknown	NPOC	ads_111	Untitled					45.27		mg/L	21	9/7/23 18:41
+Unknown	NPOC	ads_112	Untitled					49.42		mg/L	22	9/7/23 18:54
+Unknown	NPOC	ads_113	Untitled					68.66		mg/L	23	9/7/23 19:08
+Unknown	NPOC	ads_114	Untitled					50.11		mg/L	24	9/7/23 19:22
+Unknown	NPOC	DIW	Untitled					0.4159		mg/L	90	9/7/23 19:41
+Unknown	NPOC	chkstd_10ppm	Untitled					9.864		mg/L	91	9/7/23 19:53
